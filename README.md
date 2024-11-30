@@ -1,1 +1,2 @@
 # mytest
+# git and github
