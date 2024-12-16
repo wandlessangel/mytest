@@ -1,3 +1,2 @@
 # mytest
-# git and 
-# fdfsd
+# git and
