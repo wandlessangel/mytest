@@ -1,3 +1,4 @@
 # mytest
-# git and
+# git and github
 # Дрозд Владислав
+# 6 ПИ группа
